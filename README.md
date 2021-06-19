@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Machine learning algorithm
+# Heart Disease Prediction using Machine Learning Algorithm
 
 Thus preventing Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
 
@@ -27,6 +27,6 @@ Heart disease is one of the biggest causes of morbidity and mortality among the 
 3. Random Forest Learning Algorithm
 
 
-Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
+#### Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 
-Accuracy achieved: 84% (K-Nearest Neighbour Algorithm)
+#### Accuracy achieved: 84% (K-Nearest Neighbour Algorithm)
